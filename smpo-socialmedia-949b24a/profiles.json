@@ -1,0 +1,74 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/george.png",
+        "username": "Georgeee",
+        "text": "I'm a fourth year econ major, not ready to graduate. I'm from San Diego and plan on moving back after graduation. I love surfing and skating. Surf in SB has been better lately so I've been trying to hit the waves.",
+        "likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/sarah.png",
+        "username": "Sarah",
+        "text": "Hi I'm Sarah! I work at Blenders. I'm 20 yrs old and a comm major. I love my pet cat, his name is James and he's an orange tabby. He is adorable",
+        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/john.png",
+        "username": "John",
+        "text": "hey I do doordash. catch me in my honda accord in IV delivering food. i'm also a 4th year biopsych major. can't wait to graduate wooooooooooooooooooooooooo",
+		"likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/anca.png",
+        "username": "AncaD",
+        "text": "Hi I'm Anca! I'm a third year PBS major. I'm from Newport Beach but I love Santa Barbara tbh. I like to go on daily morning runs and I'm vegan. I work at the Arbor and it's pretty fun sometimes.",
+        "likes": [10000, 12000, 40000, 80000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/niki.png",
+        "username": "Nick",
+        "text": "What's up I'm nick. I'm a fourth year. I love thrifting, hiking, cooking. i'm from Dallas, Texas. I have a dog named Bruno, he's a german shepherd.",
+        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/mary.png",
+        "username": "Mary",
+        "text": "hellooooo i'm mary. i go to ucsb and i'm pre-pbs. i've really enjoyed the psych classes i've taken so far. i hope to go into social work in the future, but who knows i might change my mind.",
+        "likes": [20000, 25000, 95000] //3
+      },
+      {
+        "avatar": "avatars/others/lauren.png",
+        "username": "Lauren",
+        "text": "I’m Lauren, I love to hang out with friends and work out. I work at the rec cen and it's so chill. I live in the Sierra Madre apartments. they're super nice but sooo far from campus. It's not that bad tho, I just bike",
+        "likes": [12000, 38000] //1
+      },
+          {
+        "avatar": "avatars/others/kim.png",
+        "username": "Ky",
+        "text": "Hey, guys. I'm 19, native Korean. I've been in America for about four years now. I definitely get homesick sometimes but the weather is so nice here and I'ved made a good amount of friends so it's not too bad. Enjoy your day, stay out of trouble. <3",
+        "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/arjen.png",
+        "username": "Arjen",
+        "text": "My name's Arjen, I study biopsychology. I'm only taking 9 units this quarter so it's been pretty chill. Just trying to work on myself. I've been enjoying in person classes tho",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/heather.png",
+        "username": "Heather",
+        "text": "hey y'all i'm heather! i'm a fourth year ucsb student. i like to dj, work out, and go to festivals. i actually just got a gig at EOS so i'm really excited about that. wish me luck lol",
+        "likes": [13000, 50000, 80000, 88000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/jane.png",
+        "username": "Jane",
+        "text": "Dear all, my name is Jane and I will soon have an important interview. This is all I can think about these days. I hope you're doing well",
+        "likes": [10000, 50000] //6
+      },
+
+    ]
+  };
